@@ -1,6 +1,7 @@
-import { Demo2, Demo3, home } from "../app";
-import { PageRenderer } from "@xarc/react";
-import { ElectrodeFastifyInstance } from "@xarc/fastify-server";
+import {Demo2, Demo3, home} from "../app";
+import {PageRenderer} from "@xarc/react";
+import {ElectrodeFastifyInstance} from "@xarc/fastify-server";
+
 /**
  * Fastify plugin to setup application routes
  *

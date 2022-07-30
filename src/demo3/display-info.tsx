@@ -1,4 +1,4 @@
-import { React } from "@xarc/react";
+import {React} from "@xarc/react";
 
 export const DisplayInfo = () => {
   return (

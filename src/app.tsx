@@ -1,4 +1,4 @@
-import { declareSubApp, xarcV2 } from "@xarc/react";
+import {declareSubApp, xarcV2} from "@xarc/react";
 
 export const home = declareSubApp({
   name: "home",

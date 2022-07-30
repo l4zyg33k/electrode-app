@@ -1,5 +1,5 @@
-import { React, ReactSubApp } from "@xarc/react";
-import { docsLink } from "../info";
+import {React, ReactSubApp} from "@xarc/react";
+import {docsLink} from "../info";
 // CSS module support for .styl
 import styles from "../styles/demo1.mod.styl";
 // CSS module support for .css
