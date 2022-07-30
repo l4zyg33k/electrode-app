@@ -1,6 +1,6 @@
-import { React, ReactSubApp, createDynamicComponent, staticPropsFeature } from "@xarc/react";
+import {createDynamicComponent, React, ReactSubApp, staticPropsFeature} from "@xarc/react";
 import electrodePng from "../../static/electrode.png";
-import { message } from "./message";
+import {message} from "./message";
 
 export const Demo1 = createDynamicComponent(
   {
